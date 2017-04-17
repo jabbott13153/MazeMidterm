@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\users\julia\desktop\mazesandminotaurs\Angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\julia\desktop\mazesandminotaurs\mat.h(701): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\julia\desktop\mazesandminotaurs\mat.h(702): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\julia\desktop\mazesandminotaurs\mat.h(703): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\julia\desktop\mazesandminotaurs\mat.h(724): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\julia\desktop\mazesandminotaurs\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\julia\desktop\mazesandminotaurs\mat.h(729): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\julia\desktop\mazesandminotaurs\mat.h(745): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(113): error C3861: 'MyLoadCubeMapBitmap': identifier not found
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(114): error C3861: 'MyLoadCubeMapBitmap': identifier not found
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(115): error C3861: 'MyLoadCubeMapBitmap': identifier not found
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(116): error C3861: 'MyLoadCubeMapBitmap': identifier not found
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(117): error C3861: 'MyLoadCubeMapBitmap': identifier not found
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(118): error C3861: 'MyLoadCubeMapBitmap': identifier not found
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(151): error C2065: 'modelview': undeclared identifier
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(151): error C2198: 'PFNGLUNIFORMMATRIX4FVPROC': too few arguments for call
+c:\users\julia\desktop\mazesandminotaurs\SkyBox.h(154): error C2065: 'projection': undeclared identifier
+main.cpp(34): warning C4005: 'GL_CHECK_ERRORS': macro redefinition
+  c:\users\julia\desktop\mazesandminotaurs\GraphicsObject.h(23): note: see previous definition of 'GL_CHECK_ERRORS'
+main.cpp(54): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(139): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(172): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main.cpp(272): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
